@@ -7,6 +7,6 @@ Projects:
     git-branch: master
     git-path: demo
     target-file: Dockerfile.demo
-    desired-tag: release
+    desired-tag: 3.10
     notify-email: bamachrn@gmail.com
     depends-on: centos/centos:latest
