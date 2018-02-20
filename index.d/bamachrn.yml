@@ -18,6 +18,6 @@ Projects:
     git-path: /
     target-file: Dockerfile
     desired-tag: 1
-    notify-email: cp.build.inb@karan.org
+    notify-email: bamachrn@gmail.com
     depends-on: centos/centos:latest
     prebuild-script: pre-build.sh
